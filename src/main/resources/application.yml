@@ -1,0 +1,12 @@
+server:
+  port: 9091
+  arrayProps: 1,2,3,4,5
+  listProps1:
+    -name: abc
+    -value: abcValue
+  listProps2:
+    config2Value1
+    config2Value2
+  mapProps:
+    key1: value1
+    key2: value2
